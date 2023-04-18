@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+/* Log out button */
+
+/* Contianer */
+.flex-mont-cont{
+    margin: 3% 0% 0% 2%;
+}
+.monitor-info-flex{
+    font-size: 1.2rem;
+    margin: 8% 0% 0% 2%;
+}
+/* Logo */
+.netumo-logomonitor {
+    max-width: 150px;
+    text-align: center;
+   
+}
+.logo{
+    max-width: 150px;
+    text-align: center;
+}
+/* Table */
+.form-table th {
+    vertical-align: top;
+    text-align: left;
+    padding: 20px 10px 20px 0;
+    width: 200px;
+    line-height: 1.3;
+    font-weight: 600;
+    font-size: 18px;
+}
+th{
+    display: table-cell;
+}
+table{
+    text-indent: initial;
+    border-spacing: 2px;
+}
+.logout-bt{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 5%;
+}
+.logoutmon-bt{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 5%;
+    margin-top: -5%;
+}
